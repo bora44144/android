@@ -1,7 +1,7 @@
 package com.example.calculator
 
 // Lv3
-// AddOperation(더하기), SubstractOperation(빼기), MultiplyOperation(곱하기), DivideOperation(나누기) 연산 클래스를을 만든 후
+// AddOperation(더하기), SubstractOperation(빼기), MultiplyOperation(곱하기), DivideOperation(나누기) 연산 클래스를을 만든 후 
 // 클래스간의 관계를 고려하여 Calculator 클래스와 관계를 맺기
 // - 관계를 맺은 후 필요하다면 Calculator 클래스의 내부 코드를 변경하기
 //     - 나머지 연산자(%) 기능은 제외합니다.
