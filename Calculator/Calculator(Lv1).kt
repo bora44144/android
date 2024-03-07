@@ -1,9 +1,5 @@
 package com.example.calculator
 
-// Lv1
-// 더하기, 빼기, 나누기, 곱하기 연산을 수행할 수 있는 Calculator 클래스를 만들고, 
-// 클래스를 이용하여 연산을 진행하고 출력하기
-
 fun main() {
     var num1 = readLine()!!.toInt()
     var num2 = readLine()!!.toInt()

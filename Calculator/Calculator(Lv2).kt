@@ -1,12 +1,5 @@
 package com.example.calculator
 
-// Lv2
-// Lv1에서 만든 Calculator 클래스에 출력 이후 추가 연산을 가능하도록 코드를 추가하고, 
-// 연산 진행 후 출력하기
-
-// Lv1에서 만든 Calculator 클래스에 나머지 연산자(%)를 추가하기.
-// 그리고 -1을 입력 할 때까지 계산을 반복합니다. (1번 +, 2번 -, 3번 *, 4번 /, 5번 %)
-
 fun main() {
     var number = 0
 
