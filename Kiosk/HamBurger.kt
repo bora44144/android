@@ -1,10 +1,5 @@
 package com.example.kiosk
 
-class HamBurger {
-    var name = "햄버거"
-    var price = 2000
+class HamBurger(name: String, price: Int) : Burger(name, price) {
 
-    fun displayInfo() {
-        println("$name ${price}원")
-    }
 }
